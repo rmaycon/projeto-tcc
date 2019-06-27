@@ -1,5 +1,5 @@
 # pesquisar 
 
-Pesquisar forma de tranferência de conehcimento em trocas de cargos
+Pesquisar forma de tranferência de conhecimento em trocas de cargos
 
-pesquisar soluções de softwares que já foram desenvolvidos neste contexto,. ou parecido/ equivalente.
+pesquisar soluções de softwares que já foram desenvolvidos neste contexto,  parecidoo ou equivalente.
