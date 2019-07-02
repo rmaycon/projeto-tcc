@@ -13,14 +13,15 @@
 
 **Consequências no pior cenário:**
 
+**Contexto de Uso**
+
+Duranto o trabalho no ifg
+
 **Restrições da tarefa:** 
 
 
 # Fluxograma
 
 
-|                                                                 Antes                                                                  |                                                                Durante                                                                 | Depois                                                                                                                                 |
-| :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-| → Chega no trabalho (nova solicitação ou solicitação devolvida), abre o sistema (mesa de trabalho) e verifica se há novas notificações | → Chega no trabalho (nova solicitação ou solicitação devolvida), abre o sistema (mesa de trabalho) e verifica se há novas notificações | → Chega no trabalho (nova solicitação ou solicitação devolvida), abre o sistema (mesa de trabalho) e verifica se há novas notificações |
-| → Chega no trabalho (nova solicitação ou solicitação devolvida), abre o sistema (mesa de trabalho) e verifica se há novas notificações | → Chega no trabalho (nova solicitação ou solicitação devolvida), abre o sistema (mesa de trabalho) e verifica se há novas notificações | → Chega no trabalho (nova solicitação ou solicitação devolvida), abre o sistema (mesa de trabalho) e verifica se há novas notificações |
-| → Chega no trabalho (nova solicitação ou solicitação devolvida), abre o sistema (mesa de trabalho) e verifica se há novas notificações | → Chega no trabalho (nova solicitação ou solicitação devolvida), abre o sistema (mesa de trabalho) e verifica se há novas notificações | → Chega no trabalho (nova solicitação ou solicitação devolvida), abre o sistema (mesa de trabalho) e verifica se há novas notificações |
+|  Antes  |  Durante | Depois| 
+| :---: | :----: | ------ |
