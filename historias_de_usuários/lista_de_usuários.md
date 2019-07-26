@@ -1,5 +1,5 @@
 problema: Transferência do conhcimnto tácito na troco de gestão
 
 usuários:
-- usuários que estão assumindo
-- usuários que estão deixando o cargo
+- coordenador do ensino médio entegrado
+- coordenador os cursos superiores
