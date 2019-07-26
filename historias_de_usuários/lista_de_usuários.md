@@ -1,4 +1,5 @@
-chefe de departamento
-coordenador dos cursos superior
-coordnador dos cursos ensino médio
+problema: Transferência do conhcimnto tácito na troco de gestão
 
+usuários:
+- usuários que estão assumindo
+- usuários que estão deixando o cargo
