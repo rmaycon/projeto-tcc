@@ -1,0 +1,3 @@
+[submodule "tads_modelo_tcc"]
+	path = tads_modelo_tcc
+	url = git@github.com:rmaycon7/tads_modelo_tcc.git
